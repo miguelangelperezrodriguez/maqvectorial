@@ -1,0 +1,104 @@
+object Form1: TForm1
+  Left = 272
+  Height = 610
+  Top = 162
+  Width = 980
+  Caption = 'Form1'
+  ClientHeight = 610
+  ClientWidth = 980
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object Memo1: TMemo
+    Left = 214
+    Height = 227
+    Top = 34
+    Width = 420
+    Lines.Strings = (
+      'Valores SALIDA'
+      '==========='
+    )
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 24
+    Height = 36
+    Top = 141
+    Width = 145
+    TabOrder = 1
+    Text = 'Accion...'
+  end
+  object Memo2: TMemo
+    Left = 16
+    Height = 283
+    Top = 285
+    Width = 608
+    Lines.Strings = (
+      'OP.VALIDAS'
+      ''
+      '*<nro>       Nro de listas usadas'
+      '#<nro>       Cambio a lista nro.'
+      ''
+      '@                   Inicia'
+      '+ <nro>       Insertar. Espacio entre + y nro. '
+      '++'
+      '+++'
+      ''
+      'Visualizar datos.'
+      '?                      Ejecuta y borra      '
+      '¿                      Ejecuta.'
+    )
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 24
+    Height = 34
+    Top = 189
+    Width = 142
+    Caption = 'Instruccion'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 24
+    Height = 28
+    Top = 233
+    Width = 142
+    Caption = 'Limpiar'
+    OnClick = Button4Click
+    TabOrder = 4
+  end
+  object Memo3: TMemo
+    Left = 648
+    Height = 216
+    Top = 45
+    Width = 310
+    Lines.Strings = (
+      '*3'
+      '#1'
+      '+5'
+      '?'
+      '++9'
+      '+++2'
+      '?'
+      '+8'
+    )
+    TabOrder = 5
+  end
+  object Label2: TLabel
+    Left = 656
+    Height = 19
+    Top = 16
+    Width = 66
+    Caption = 'Programa'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 648
+    Height = 34
+    Top = 288
+    Width = 135
+    Caption = 'Ejecutar'
+    OnClick = Button1Click
+    TabOrder = 6
+  end
+end

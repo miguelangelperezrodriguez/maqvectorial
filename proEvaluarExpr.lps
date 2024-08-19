@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proEvaluarExpr.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="53" Y="19"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmPrincipal"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="79"/>
+        <CursorPos X="14" Y="94"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tadpila.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TADPila"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="23"/>
+        <CursorPos Y="40"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tadoperpila.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TADOperPILA"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="11"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="62"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="operacionesmaquina.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="OperacionesMaquina"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="77"/>
+        <CursorPos X="46" Y="84"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tadelem.pas"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="25" Y="4"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tadlistadinamica.pas"/>
+        <TopLine Value="69"/>
+        <CursorPos X="29" Y="96"/>
+        <UsageCount Value="100"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="3579"/>
+        <CursorPos X="50" Y="3611"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="80" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="tadlistadinamica.pas"/>
+        <Caret Line="90" Column="14" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="tadlistadinamica.pas"/>
+        <Caret Line="91" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="40" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="90" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="91" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="90" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="91" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="92" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="90" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="91" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="90" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="93" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="tadlistadinamica.pas"/>
+        <Caret Line="86" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="99" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="100" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="101" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="tadlistadinamica.pas"/>
+        <Caret Line="88" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="tadlistadinamica.pas"/>
+        <Caret Line="96" Column="29" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="operacionesmaquina.pas"/>
+        <Caret Line="90" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="80" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="94" Column="14" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="9" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="100" Column="53" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="94" Column="14" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="23" Column="12" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="94" Column="14" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="23" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="25" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="tadoperpila.pas"/>
+        <Caret Line="14" Column="84" TopLine="11"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="tadpila.pas"/>
+        <Line Value="80"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
