@@ -72,7 +72,7 @@ implementation
     Vacia:=p=nil
   end;
 
-  procedure ejecutar(comando : string);
+  {procedure ejecutar(comando : string);
   var
     operacion:char;
     operador : elementos;
@@ -84,7 +84,7 @@ implementation
          Insertar(operador,listatitere[listaactual]);
 
      end;
-  end;
+  end;}
 
   procedure Apilar (var p : pila;c : string);
   var

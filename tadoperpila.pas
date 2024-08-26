@@ -20,13 +20,16 @@ implementation
     var
       saux : string;
     begin
-      op:=comando[1];
+      try
+        op:=comando[1];
 
-      if (op<>'*') and (op<>'#') then
-        exit;
+        if (op<>'*') and (op<>'#') then
+          exit;
 
-      saux:=(copy(comando,2,Length(comando)-1));
-      dato:=StrToInt(saux);
+        saux:=(copy(comando,2,Length(comando)-1));
+        dato:=StrToInt(saux);
+      finally
+      end;
     end;
 
   function EjecutarAccion (textoaccion : string) : string;

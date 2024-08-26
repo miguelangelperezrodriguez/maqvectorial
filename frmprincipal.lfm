@@ -1,9 +1,9 @@
 object Form1: TForm1
-  Left = 272
+  Left = 573
   Height = 610
-  Top = 162
+  Top = 344
   Width = 980
-  Caption = 'Form1'
+  Caption = 'MAQUINA VECTORIAL'
   ClientHeight = 610
   ClientWidth = 980
   OnCreate = FormCreate
@@ -44,8 +44,8 @@ object Form1: TForm1
       '+++'
       ''
       'Visualizar datos.'
-      '?                      Ejecuta y borra      '
-      '¿                      Ejecuta.'
+      '?                      Ejecuta.     '
+      '¿                      Ejecuta y borra.'
     )
     TabOrder = 2
   end
@@ -75,12 +75,12 @@ object Form1: TForm1
     Lines.Strings = (
       '*3'
       '#1'
-      '+5'
+      '+ 5'
       '?'
-      '++9'
-      '+++2'
+      '++ 9'
+      '+++ 2'
       '?'
-      '+8'
+      '+ 8'
     )
     TabOrder = 5
   end

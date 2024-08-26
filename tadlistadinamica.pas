@@ -86,13 +86,14 @@ unit tadlistadinamica;
         ejecutarOpMaquina (nro,dato);
 
         aux:=aux^.pResto;
+
         while aux<>nil do
         begin
-           aux:=aux^.pResto;
            saccion:=aux^.info;
            descomponer(saccion,op,dato);
            nro:=nroFuncion(op);
            ejecutarOpMaquina(nro,dato);
+           aux:=aux^.pResto;
         end;
       end;
 

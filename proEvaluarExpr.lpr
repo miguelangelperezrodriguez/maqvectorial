@@ -10,7 +10,7 @@ uses
   athreads,
   {$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, frmPrincipal,TADPila,TADOperPila, TADOperPila
+  Forms, frmPrincipal,TADPila, TADOperPILA
   { you can add units after this };
 
 {$R *.res}

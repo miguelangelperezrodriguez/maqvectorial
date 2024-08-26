@@ -89,7 +89,7 @@ function OperacionValida(oper : string) : boolean;
  begin
   for i:=1 to 3 do
     if op=listaoperaciones[i].optexto then
-      Result:=i;
+      nroFuncion:=i;
  end;
 
  procedure ejecutarOpMaquina (nro : integer; dato : elementos);
